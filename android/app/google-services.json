@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44655979345",
+    "project_id": "phonk-me",
+    "storage_bucket": "phonk-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44655979345:android:84933875244de04a81c170",
+        "android_client_info": {
+          "package_name": "com.example.olympia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0JoWpHXwiPekrqI-L2l8m_tCBLNQKnK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
